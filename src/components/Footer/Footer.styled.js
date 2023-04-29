@@ -14,6 +14,6 @@ export const FooterStyled = styled.footer`
       rgba(40, 60, 228, 0.6) 0%,
       rgba(40, 60, 228, 0) 70%
     ),
-    radial-gradient(circle at right top, #ca1133 0%, rgba(233, 4, 46, 0) 57%);
+   
   color: #dcd9df;
 `;
